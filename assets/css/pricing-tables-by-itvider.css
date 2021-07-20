@@ -64,7 +64,8 @@
 
 #generic_price_table {
   margin: 50px 0 50px 0;
-  font-family: 'Raleway', sans-serif;
+  /*font-family: 'Raleway', sans-serif;*/
+  font-family: 'Lufga';
 }
 
 #generic_price_table .generic_content {

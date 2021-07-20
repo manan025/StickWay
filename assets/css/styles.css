@@ -38,3 +38,12 @@ h1 {
   /*margin-bottom: 50%;*/
 }
 
+.desc {
+  margin-left: 0;
+}
+
+.about_stick {
+  margin: 60px;
+  align-items: center;
+}
+
