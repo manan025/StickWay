@@ -1,0 +1,40 @@
+ul {
+  align-items: flex-end;
+}
+
+h1 {
+  /*width: 250px;*/
+}
+
+.taran_heading {
+  /*width: 200px;*/
+  /*height: 200px;*/
+  position: fixed;
+  /*background-color: blue;*/
+  /*top: 50%;*/
+  left: 50%;
+  /*margin-top: -100px;*/
+  margin-left: -100px;
+}
+
+.sightway {
+  margin-left: 50px;
+  margin-right: 10px;
+}
+
+.manan {
+  float: left;
+  clear: left;
+}
+
+.active-tab {
+  border-bottom: 3px solid #01A63D;
+  border-radius: 2px;
+}
+
+.main {
+  margin-top: 100px;
+  /*position: absolute;*/
+  /*margin-bottom: 50%;*/
+}
+
