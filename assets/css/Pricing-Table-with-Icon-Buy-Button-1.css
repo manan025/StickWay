@@ -16,14 +16,12 @@
   color: white;
   transition: .3s;
   text-transform: uppercase;
-  font-family: 'Open Sans';
 }
 
 .btnText2 {
   margin-top: 63px;
   margin-right: -120px;
   color: #FFF;
-  font-family: 'Raleway';
 }
 
 .button:hover .btnTwo {
@@ -72,7 +70,6 @@ p {
 }
 
 h4 {
-  font-family: 'Raleway';
   color: #e24f43;
   font-weight: 400;
   margin-top: 0;
@@ -82,7 +79,6 @@ h4 {
 }
 
 .h1, h1 {
-  font-family: 'Droid Serif';
   font-weight: 700;
   margin: 0;
 }
